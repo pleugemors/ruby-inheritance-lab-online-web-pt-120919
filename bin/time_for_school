@@ -28,7 +28,7 @@ jim.last_name = "leugemors"
 some_knowledge = avi.teach
 steve.learn(some_knowledge)
 
-kim = Studen.new 
+kim = Student.new 
 kim.first_name = "kim"
 kim.last_name = "possible"
 some_knowledge = avi.teach
